@@ -38,10 +38,17 @@ The implementation of DFV-SNN involves the following steps:
 - Implementation of the Siamese Neural Network architecture using a deep learning framework such as PyTorch or TensorFlow.
 - Training and evaluation of the model on the dataset using the contrastive loss function and a suitable evaluation metric such as accuracy or F1 score.
 ## Future Scope
-There are several potential future directions for this project, including:
+This project provides a face verification system using Siamese Neural Network (SNN) which can be used as a starting point for further research and development in the field of face recognition. With the rapid advancement in computer vision and deep learning, there are many opportunities to enhance the performance of this system. Here are some potential areas for future improvement:
 
-- Integration of the DFV-SNN model into a real-world facial recognition system.
-- Extension of the model to handle larger datasets and more complex one-shot verification tasks.
-- This project has the potential to be further developed and applied in the field of face lock technology.
-- The verification algorithm could be optimized to increase its accuracy and handle more complex cases.
-- The project could be converted into a mobile application, making it more accessible and user-friendly.
+- The performance of the model can be improved by incorporating advanced deep learning architectures such as Convolutional Neural Networks (CNN) and Long Short-Term Memory (LSTM) networks.
+
+- The system can be integrated into a mobile or web app, making it more accessible and user-friendly. 
+    <i> (ps: I will be doing this in the Future) </i>
+
+- The system can be trained on a larger and more diverse dataset to improve its accuracy and ability to handle different face shapes and poses.
+
+- The system can be integrated with other biometric authentication techniques such as iris recognition, fingerprint recognition, and voice recognition to provide multi-factor authentication.
+
+- The system can be used as a basic building block for developing a face lock technology.
+
+Overall, this project provides a solid foundation for further research and development in the field of face recognition and verification.
