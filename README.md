@@ -1,7 +1,7 @@
 # <b> Deep Facial Verification Using Siamese Neural Network (DFV-SNN)</b>
 
 
-<i>DFV-SNN (Deep Face Verification with Siamese Neural Networks) is a project that aims to implement face verification using Siamese Neural Networks. The project utilizes captured positive images as the reference and verifies them against a given image to check for a match. The methodology for this project is based on the research paper titled "Siamese Neural Networks for One-shot Image Recognition" by Gregory Koch, Richard Zemel, and Ruslan Salakhutdinov, from UNIVERSITY OF TORONTO. 
+<i>DFV-SNN (Deep Face Verification with Siamese Neural Networks) is a project that aims to implement face verification using Siamese Neural Networks. The project utilizes captured positive images as the reference and verifies them against a given image to check for a match. The methodology for this project is based on the research paper titled <b>"Siamese Neural Networks for One-shot Image Recognition"</b> by Gregory Koch, Richard Zemel, and Ruslan Salakhutdinov from Department of Computer Science, University of Toronto. Toronto, Ontario, Canada.
   
 This research paper serves as the primary reference for the implementation of DFV-SNN (https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf). 
 
